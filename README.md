@@ -10,11 +10,6 @@
 
 <a href='https://hamedjenabi.me/'><img src="https://img.icons8.com/ios/50/000000/domain.png" width="16" height="16" alt="web"> @myPortfolio</a><br>
 
-<!-- <a href='mailto:hamed.jenabi@gmail.com'>![Outlined email logo.](./socials/email.png) hamed.jenabi@gmail.com</a> <br>
-<a href='https://www.linkedin.com/in/hamed-jenabi/'>![Outlined linked-in logo.](./socials/linkedin.png) hamed-jenabi</a><br>
-
-
-## 🦞 Main Projects
 
 ## 🧮 Education
 
