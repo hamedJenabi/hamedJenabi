@@ -11,7 +11,7 @@
 <a href='https://hamedjenabi.me/'><img src="https://img.icons8.com/ios/50/000000/domain.png" width="16" height="16" alt="web"> @myPortfolio</a><br>
 
 
-## 🧮 Education
+## Education
 
 ** Upleveled Coding Bootcamp**<br>
 [UpLeveled](https://www.upleveled.io/) - Vienna, Austria _(May 2020 - July 2020)_ <br>
