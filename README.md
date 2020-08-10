@@ -8,7 +8,7 @@
 
 <a href='https://www.linkedin.com/in/hamed-jenabi/'><img src="https://user-images.githubusercontent.com/47693091/89641863-ef5f4d00-d8b2-11ea-8245-9938757cb174.png" width="16" height="16" alt="LinkedIn"> @HamedJenabi</a><br>
 
-<a href='https://hamedjenabi.me/'><img src="<img src="https://img.icons8.com/ios/50/000000/domain.png"/>" width="16" height="16" alt="web"> @myPortfolio</a><br>
+<a href='https://hamedjenabi.me/'><img src="https://img.icons8.com/ios/50/000000/domain.png" width="16" height="16" alt="web"> @myPortfolio</a><br>
 
 <!-- <a href='mailto:hamed.jenabi@gmail.com'>![Outlined email logo.](./socials/email.png) hamed.jenabi@gmail.com</a> <br>
 <a href='https://www.linkedin.com/in/hamed-jenabi/'>![Outlined linked-in logo.](./socials/linkedin.png) hamed-jenabi</a><br>
