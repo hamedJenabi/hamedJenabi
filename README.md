@@ -22,7 +22,6 @@
 **12-week Coding Bootcamp** focused on full-stack JavaScript<br>
 [UpLeveled](https://www.upleveled.io/) - Vienna, Austria _(May 2020 - July 2020)_ <br>
 
-<a href='https://upleveled.io'><img src="https://user-images.githubusercontent.com/47693091/89646352-ea52cb80-d8bb-11ea-85a4-dc094982a14a.jpg" height="720" width="540" alt="krozzle working on his laptop at the upleveled.io coding bootcamp"></a>
 <br>
 
 **Bachelor of Science** Computer Engeneering<br>
