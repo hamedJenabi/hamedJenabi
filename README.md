@@ -1,22 +1,58 @@
 # Hamed Jenabi
 
-## Web Application Developer<br>
+### Design Systems · Frontend Platforms · AI Integration
 
-<a href='mailto:hamed.jenabi@gmail.com'><img src="https://user-images.githubusercontent.com/47693091/89641866-eff7e380-d8b2-11ea-9ede-4f5da405edea.png" width="16" height="16" alt="Email"> hamed.jenabi@gmail.com</a><br>
+**I build frontend systems that scale.**
 
-<a href='https://www.github.com/hamedJenabi'><img src="https://user-images.githubusercontent.com/47693091/89641858-ee2e2000-d8b2-11ea-95fd-175d14f65d6a.png" width="16" height="16" alt="Github"> @hamedJenabi</a><br>
+I’m a frontend engineer based in Vienna, focused on design systems, reusable component architecture, developer experience, and AI-powered product experiences.
 
-<a href='https://www.linkedin.com/in/hamed-jenabi/'><img src="https://user-images.githubusercontent.com/47693091/89641863-ef5f4d00-d8b2-11ea-8245-9938757cb174.png" width="16" height="16" alt="LinkedIn"> @HamedJenabi</a><br>
+My work sits at the intersection of **design systems, frontend platforms, and practical AI integration** — creating systems that stay consistent across products and brands without slowing teams down.
 
-<a href='https://hamedjenabi.me/'><img src="https://img.icons8.com/ios/50/000000/domain.png" width="16" height="16" alt="web"> @myPortfolio</a><br>
+📍 Vienna / Remote · 🌐 [hamedjenabi.me](https://hamedjenabi.me) · 📫 [hamed.jenabi@gmail.com](mailto:hamed.jenabi@gmail.com)
 
+[LinkedIn](https://www.linkedin.com/in/hamed-jenabi/) · [Portfolio](https://hamedjenabi.me)
 
-## Education
+## What I Work On
 
-** Upleveled Coding Bootcamp**<br>
-[UpLeveled](https://www.upleveled.io/) - Vienna, Austria _(May 2020 - July 2020)_ <br>
+**Frontend Platforms & Design Systems**  
+Token-driven components, reusable UI architecture, accessibility, governance, and scalable release workflows.
 
-<br>
+`React` `TypeScript` `Storybook` `Design Tokens` `CI/CD`
 
-**Bachelor of Science** Computer Engeneering<br>
-[Iran University of Science and Technology]<br>
+**AI-Powered Product Experiences**  
+Retrieval-first applications, structured content workflows, tool calling, search, summarization, and LLM integrations.
+
+`Next.js` `TypeScript` `RAG` `LLM APIs` `MCP` `Vector Search`
+
+**Frontend Architecture**  
+Maintainable application architecture with a focus on consistency, performance, developer experience, and long-term scalability.
+
+`React` `Next.js` `TypeScript` `Headless CMS` `Observability`
+
+## Selected Work
+
+### Frontend Platform / Design System
+Tokenized components, governance, accessibility, and release paths for reusable product UI.
+
+### AI Content Platform
+A retrieval-first content workflow for search, reuse, summarization, and channel adaptation.
+
+### Engineering Knowledge Agent
+A tool-calling knowledge interface with structured answers, auditability, and evaluation loops.
+
+## Design System Approach
+
+I structure design tokens in three layers:
+
+**Primitive → Semantic → Component**
+
+This keeps component intent consistent while allowing the same system to support different visual brands and product contexts.
+
+---
+
+### Let's build something
+
+If you're working on a **design system, frontend platform, or AI-enabled product**, feel free to reach out.
+
+→ [hamed.jenabi@gmail.com](mailto:hamed.jenabi@gmail.com)  
+→ [hamedjenabi.me](https://hamedjenabi.me)
